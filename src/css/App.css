@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20%;
+}
+
+.App-title {
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline;
+    margin: 10px;
+}
+
+.Deadline-input{
+    font-size: 25px;
+    margin: 5px;
+}
